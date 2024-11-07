@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\Source\\platformer_test\\platformer_test.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\.vscode\\compileCommands_platformer_test\\platformer_test.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\Source\\platformer_test\\platformer_test.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\.vscode\\compileCommands_platformer_test\\platformer_test.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\Source\\platformer_test\\platformer_test.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\.vscode\\compileCommands_platformer_test\\platformer_test.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\Source\\platformer_test\\platformer_testCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\.vscode\\compileCommands_platformer_test\\platformer_test.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\Source\\platformer_test\\platformer_testCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\.vscode\\compileCommands_platformer_test\\platformer_test.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\Source\\platformer_test\\platformer_testGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\.vscode\\compileCommands_platformer_test\\platformer_test.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\Source\\platformer_test\\platformer_testGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\reddr\\OneDrive\\Documents\\Unreal Projects\\platformer_test\\.vscode\\compileCommands_platformer_test\\platformer_test.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
